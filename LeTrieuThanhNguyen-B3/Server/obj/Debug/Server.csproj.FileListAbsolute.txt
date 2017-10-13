@@ -1,0 +1,9 @@
+E:\QTM\LeTrieuThanhNguyen-B3\Server\bin\Debug\Server.exe.config
+E:\QTM\LeTrieuThanhNguyen-B3\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\QTM\LeTrieuThanhNguyen-B3\Server\obj\Debug\Server.Form1.resources
+E:\QTM\LeTrieuThanhNguyen-B3\Server\obj\Debug\Server.Properties.Resources.resources
+E:\QTM\LeTrieuThanhNguyen-B3\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\QTM\LeTrieuThanhNguyen-B3\Server\bin\Debug\Server.exe
+E:\QTM\LeTrieuThanhNguyen-B3\Server\bin\Debug\Server.pdb
+E:\QTM\LeTrieuThanhNguyen-B3\Server\obj\Debug\Server.exe
+E:\QTM\LeTrieuThanhNguyen-B3\Server\obj\Debug\Server.pdb
